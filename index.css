@@ -1,0 +1,36 @@
+/* Write your code here. */
+.notifications-container {
+  background-color: #ffffff;
+}
+.notification {
+  color: #0f172a;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.color-box {
+  padding: 10px;
+  display: flex;
+}
+
+.color-name {
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.information {
+  background-color: #0b69ff;
+}
+
+.success {
+  background-color: #2dca73;
+}
+
+.warning {
+  background-color: #ffb800;
+}
+
+.error {
+  background-color: #ff0b37;
+}
